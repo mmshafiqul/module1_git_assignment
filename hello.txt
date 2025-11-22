@@ -1,0 +1,1 @@
+Hello! This file is part of the DevOps learning project. It demonstrates creating a new file in the 'dev' branch and committing changes using Git.
